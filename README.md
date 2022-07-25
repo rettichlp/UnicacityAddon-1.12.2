@@ -16,7 +16,7 @@ There are no development versions available for installation. If such want to be
 
 ## Contribute
 
-1. Clone the repository with `git clone https://github.com/paulzhng/UCUtils.git`
+1. Clone the repository with `git clone https://github.com/rettichlp/UnicacityAddon-1.12.2.git`
 2. Open the downloaded folder as IntelliJ Project
 3. IntelliJ will import all necessary stuff
 4. Run gradle task `downloadLabyModAPI`
